@@ -21,8 +21,7 @@ print("Let me introduce my self. My Name is ",nama,", but you can call me ",call
 print("thank you")
 
 seperti ini tampilanya
-!("Gambar1")("gambarss/ss1.png.png)
-
+![gambar1](gambarSS/ss1.png.png)
 
 ### OUTPUT
 CONTOH DENGAN NAMA SAYA<p>
@@ -38,6 +37,8 @@ telepon:089693805682<p>
    assalamu'alaikum Wr.Wb<p>
 Let me introduce my self. My Name is  Heri Anto Simamora , but you can call me  Heri  .My NPM is  312110365 . i was born in  jakarta,6 september 1998 and i am 23 years old. i am very glad if you want to inivite my house in  kp.petukangan rt.01/rw.05 .so, don't forget to call mebefore with the number 089693805682 .<p>
 thank you<p>
+
+![gambar2](gambarSS/ss2.png.png)
 
 
 
