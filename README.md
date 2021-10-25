@@ -101,4 +101,4 @@ hasil pembagian 4/8=2<p>
 output sebagai berikut jika kita masukkan nilai pada variabel a=8 dan variabel b=4 akan muncul 
 hasil pemjumlahan sebagai berikut (hasil pengabungan 5&10),(hasil penjumlahan 4+8=12),(hasil pembagian 4/8=2) <p>
 
-! [gambar5](gambarSS/ss5.png.png)
+![gambar5](gambarSS/ss5.png.png)
