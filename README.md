@@ -83,19 +83,19 @@ ini tampilannya
 
 inilah output dari proses input yang kita buat. setelah kita tambahkan (int) pada (a=int(input("masukkan nilai a:") b=int(input("masukkan nilai b:")) proses akan dapat berjalan sesuai dengan variabel a dan b yang kita masukkan <p>
 
-seperti berikut
-hello
-saya sedang belajar python
-variabel a= 8
-variable b= 6
-hasil penjumlahan a+b= 14 
-masukkan nilai a:8
-masukkan nilai b:4
-variabel a= 8
-variabel b= 4
-hasil penggabungan 4&8=12
-hasil penjumlahan 4+8=12
-hasil pembagian 4/8=2
+seperti berikut<p>
+hello<p>
+saya sedang belajar python<p>
+variabel a= 8<p>
+variable b= 6<p>
+hasil penjumlahan a+b= 14 <p>
+masukkan nilai a:8<p>
+masukkan nilai b:4<p>
+variabel a= 8<p>
+variabel b= 4<p>
+hasil penggabungan 4&8=12<p>
+hasil penjumlahan 4+8=12<p>
+hasil pembagian 4/8=2<p>
 
 output sebagai berikut jika kita masukkan nilai pada variabel a=8 dan variabel b=4 akan muncul 
 hasil pemjumlahan sebagai berikut (hasil pengabungan 8&4),(hasil penjumlahan 4+8=12),(hasil pembagian 4/8=2) <p>
