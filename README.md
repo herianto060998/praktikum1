@@ -51,7 +51,7 @@ seperti ini tampilannya
 
 ### INPUT 
 
-inilah inputan dari proses latihan1.py yang kita buat.kita harus memasukkan angka real pada (format(a,b) %(a+b)) di line ini "print("hasil penggabungan {1}&{0}=%d".format(a,b) %(a+b)" jika kita tidak mengubah variabel dengan angka real output akan error<p>
+inilah inputan dari proses latihan1.py yang kita buat.kita harus menambahkan (int) pada (a=input("masukkan nilai a:") b=input("masukkan nilai b:")) jika kita tidak menambahkan (int) proses akan error karena hasil inputan variabel a,b tipenya string. seperti ini  <p>
 
 ![gambar3](gambarSS/ss3.png.png)
 
@@ -64,8 +64,8 @@ print ("variabel a=",a)<p>
 print ("variable b=",b)<p>
 print ("hasil penjumlahan a+b=",a+b)<p>
 
-a=input("masukkan nilai a:")<p>
-b=input("masukkan nilai b:")<p>
+a=int(input("masukkan nilai a:"))<p>
+b=int(input("masukkan nilai b:"))<p>
 print("variabel a=",a)<p>
 print("variabel b=",b)<p>
 print("hasil penggabungan {1}&{0}=%d".format(10,5) %(10+5))<p>
@@ -81,24 +81,23 @@ ini tampilannya
 
 ### OUTPUT
 
-inilah output dari proses input yang kita buat. kita harus mengubah variabel (a) dan (b) pada (format(a,b) %(a+b)) di line ini "print("hasil penggabungan {1}&{0}=%d".format(a,b) %(a+b)" dengan angka real agar output akan dapat berjalan.<p>
+inilah output dari proses input yang kita buat. setelah kita tambahkan (int) pada (a=int(input("masukkan nilai a:") b=int(input("masukkan nilai b:")) proses akan dapat berjalan sesuai dengan variabel a dan b yang kita masukkan <p>
 
 seperti berikut
-
-hello<p>
-saya sedang belajar python<p>
-variabel a= 8<p>
-variable b= 6<p>
-hasil penjumlahan a+b= 14<p> 
-masukkan nilai a:8<p>
-masukkan nilai b:4<p>
-variabel a= 8<p>
-variabel b= 4<p>
-hasil penggabungan 5&10=15<p>
-hasil penjumlahan 4+8=12<p>
-hasil pembagian 4/8=2<p>
+hello
+saya sedang belajar python
+variabel a= 8
+variable b= 6
+hasil penjumlahan a+b= 14 
+masukkan nilai a:8
+masukkan nilai b:4
+variabel a= 8
+variabel b= 4
+hasil penggabungan 4&8=12
+hasil penjumlahan 4+8=12
+hasil pembagian 4/8=2
 
 output sebagai berikut jika kita masukkan nilai pada variabel a=8 dan variabel b=4 akan muncul 
-hasil pemjumlahan sebagai berikut (hasil pengabungan 5&10),(hasil penjumlahan 4+8=12),(hasil pembagian 4/8=2) <p>
+hasil pemjumlahan sebagai berikut (hasil pengabungan 8&4),(hasil penjumlahan 4+8=12),(hasil pembagian 4/8=2) <p>
 
 ![gambar5](gambarSS/ss5.png.png)
